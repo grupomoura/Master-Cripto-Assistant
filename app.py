@@ -118,20 +118,20 @@ def main():
             with st.status("Relatório detalhado: "):
                 if "Agent stopped" not in preco_historico_task.output: 
                     st.markdown(preco_historico_task.output, unsafe_allow_html=True)
-                # if "Agent stopped" not in volume_negociacao_task.output:
-                #     st.markdown(volume_negociacao_task.output, unsafe_allow_html=True)
-                # if "Agent stopped" not in indicadores_tecnicos_task.output:
-                #     st.markdown(indicadores_tecnicos_task.output, unsafe_allow_html=True)
-                # if "Agent stopped" not in sentimento_mercado_task.output:
-                #     st.markdown(sentimento_mercado_task.output, unsafe_allow_html=True)
-                # if "Agent stopped" not in noticias_eventos_task.output:
-                #     st.markdown(noticias_eventos_task.output, unsafe_allow_html=True)
-                # if "Agent stopped" not in indicadores_mercado_task.output:
-                #     st.markdown(indicadores_mercado_task.output, unsafe_allow_html=True)
-                # if "Agent stopped" not in correlacionamento_task.output:
-                #     st.markdown(correlacionamento_task.output, unsafe_allow_html=True)
-                # if "Agent stopped" not in analise_fundamentalista_task.output:
-                #     st.markdown(analise_fundamentalista_task.output, unsafe_allow_html=True)
+                if "Agent stopped" not in volume_negociacao_task.output:
+                    st.markdown(volume_negociacao_task.output, unsafe_allow_html=True)
+                if "Agent stopped" not in indicadores_tecnicos_task.output:
+                    st.markdown(indicadores_tecnicos_task.output, unsafe_allow_html=True)
+                if "Agent stopped" not in sentimento_mercado_task.output:
+                    st.markdown(sentimento_mercado_task.output, unsafe_allow_html=True)
+                if "Agent stopped" not in noticias_eventos_task.output:
+                    st.markdown(noticias_eventos_task.output, unsafe_allow_html=True)
+                if "Agent stopped" not in indicadores_mercado_task.output:
+                    st.markdown(indicadores_mercado_task.output, unsafe_allow_html=True)
+                if "Agent stopped" not in correlacionamento_task.output:
+                    st.markdown(correlacionamento_task.output, unsafe_allow_html=True)
+                if "Agent stopped" not in analise_fundamentalista_task.output:
+                    st.markdown(analise_fundamentalista_task.output, unsafe_allow_html=True)
                 
             with open('process_history.txt', 'a') as f:
                 f.write(f"\n\n{datetime.now().strftime('%Y-%m-%d %H:%M:%S')} - {result}")

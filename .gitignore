@@ -1,4 +1,6 @@
 .streamlit/secrets.toml
 .env
 app_ex.py
-app copy.py
+app_copy.py
+/venv
+venv

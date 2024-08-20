@@ -38,7 +38,7 @@ class Tasks():
             description=(
                 f"Coletar e analisar o histórico de preços do ativo {user_question} para identificar tendências e padrões no curto prazo entre 24hs a 7 dias."
                 "Seu resultado deve ser 'subir' ou 'cair', com uma frase explicando o motivo."
-                "Cite as fontes de onde tirou as informações."
+                "Ao final informe o link ou a lista de links para as fontes de onde tirou as informações."
                 "Responda usando markdown com o texto em português do Brasil."
             ),
             # output_file=f"analysis/Analista de Histórico de Preços/{datetime.now().strftime('%Y%m%d%H%M%S')}_{user_question}.md",
@@ -60,7 +60,7 @@ class Tasks():
             description=(
                 f"Analisar o volume de negociação do ativo {user_question} para determinar a força da tendência no curto prazo entre 24hs a 7 dias."
                 "Seu resultado deve ser 'subir' ou 'cair', com uma frase explicando o motivo."
-                "Cite as fontes de onde tirou as informações."
+                "Ao final informe o link ou a lista de links para as fontes de onde tirou as informações."
                 "Responda usando markdown com o texto em português do Brasil."
             ),
             # output_file=f"analysis/Analista de Volume de Negociação/{datetime.now().strftime('%Y%m%d%H%M%S')}_{user_question}.md",
@@ -82,7 +82,7 @@ class Tasks():
             description=(
                 f"Analisar dados do ativo {user_question} nos principais indicadores técnicos como RSI, MACD, e bandas de Bollinger para prever movimentos de preços no curto prazo entre 24hs a 7 dias."
                 "Seu resultado deve ser 'subir' ou 'cair', com uma frase explicando o motivo."
-                "Cite as fontes de onde tirou as informações."
+                "Ao final informe o link ou a lista de links para as fontes de onde tirou as informações."
                 "Responda usando markdown com o texto em português do Brasil."
             ),
             # output_file=f"analysis/Analista de Indicadores Técnicos/{datetime.now().strftime('%Y%m%d%H%M%S')}_{user_question}.md",
@@ -104,7 +104,7 @@ class Tasks():
             description=(
                 f"Analisar o sentimento do mercado com base em notícias e mídias sociais para prever o movimento do preço do ativo {user_question} no curto prazo entre 24hs a 7 dias."
                 "Seu resultado deve ser 'subir' ou 'cair', com uma frase explicando o motivo."
-                "Cite as fontes de onde tirou as informações."
+                "Ao final informe o link ou a lista de links para as fontes de onde tirou as informações."
                 "Responda usando markdown com o texto em português do Brasil."
             ),
             # output_file=f"analysis/Analista de Sentimento de Mercado/{datetime.now().strftime('%Y%m%d%H%M%S')}_{user_question}.md",
@@ -126,7 +126,7 @@ class Tasks():
             description=(
                 f"Avaliar o impacto de notícias e eventos recentes no preço do ativo {user_question} no curto prazo entre 24hs a 7 dias."
                 "Seu resultado deve ser 'subir' ou 'cair', com uma frase explicando o motivo."
-                "Cite as fontes de onde tirou as informações."
+                "Ao final informe o link ou a lista de links para as fontes de onde tirou as informações."
                 "Responda usando markdown com o texto em português do Brasil."
             ),
             # output_file=f"analysis/Analista de Notícias e Eventos/{datetime.now().strftime('%Y%m%d%H%M%S')}_{user_question}.md",
@@ -148,7 +148,7 @@ class Tasks():
             description=(
                 f"Analise de forma criativa índices de mercado como VIX e S&P 500 para prever tendências do preço do ativo {user_question} no curto prazo entre 24hs a 7 dias."
                 "Seu resultado deve ser 'subir' ou 'cair', com uma frase explicando o motivo."
-                "Cite as fontes de onde tirou as informações."
+                "Ao final informe o link ou a lista de links para as fontes de onde tirou as informações."
                 "Responda usando markdown com o texto em português do Brasil."
             ),
             # output_file=f"analysis/Analista de Indicadores de Mercado/{datetime.now().strftime('%Y%m%d%H%M%S')}_{user_question}.md",
@@ -170,7 +170,7 @@ class Tasks():
             description=(
                 f"Analisar a correlação entre BTC, {user_question}, e o dólar americano para prever movimentos de preços no ativo {user_question} no curto prazo entre 24hs a 7 dias."
                 "Seu resultado deve ser 'subir' ou 'cair', com uma frase explicando o motivo."
-                "Cite as fontes de onde tirou as informações."
+                "Ao final informe o link ou a lista de links para as fontes de onde tirou as informações."
                 "Responda usando markdown com o texto em português do Brasil."
             ),
             # output_file=f"analysis/Analista de Correlacionamento/{datetime.now().strftime('%Y%m%d%H%M%S')}_{user_question}.md",
@@ -192,7 +192,7 @@ class Tasks():
             description=(
                 f"Avaliar o valor intrínseco do ativo {user_question} para prever se está subvalorizado ou sobrevalorizado identificando padrões de alteração no curto prazo entre 24hs a 7 dias."
                 "Seu resultado deve ser 'subir' ou 'cair', com uma frase explicando o motivo."
-                "Cite as fontes de onde tirou as informações."
+                "Ao final informe o link ou a lista de links para as fontes de onde tirou as informações."
                 "Responda usando markdown com o texto em português do Brasil."
             ),
             # output_file=f"analysis/Analista Fundamentalista/{datetime.now().strftime('%Y%m%d%H%M%S')}_{user_question}.md",
@@ -208,13 +208,14 @@ class Tasks():
                 considerando a data atual que hoje é {datetime.now()}.
 
                 ## Fontes de pesquisa:
-                - https://finance.yahoo.com/quote/{user_question}/profile
-                - https://www.investopedia.com/articles/stock-market/value-investment-stocks/what-is-intrinsic-value-stock.asp
-                - https://www.investopedia.com/articles/economics/value-investment-stocks.asp
-                - https://www.investopedia.com/articles/economics/investment-analysis/1001-what-is-value-investment.asp
-                - https://www.investopedia.com/terms/v/value-investment.asp
-                - https://www.investopedia.com/articles/trading/062513/how-to-identify-value-stocks.asp
-                - https://www.investopedia.com/articles/trading/102315/value-investment-stocks-
+                - 
+                - 
+                - 
+                - 
+                - 
+                - 
+                - 
+                ...
   
                 """
                 ),

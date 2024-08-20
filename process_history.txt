@@ -316,3 +316,46 @@ O histórico de preços do ativo BNB indica que a expectativa é de um aumento e
 2024-08-20 02:20:43 - Em resumo, o valor intrínseco do ativo ADA foi avaliado considerando a correlação entre BTC, ADA e o dólar americano, bem como a análise técnica semanal. Os critérios considerados incluem a tendência de alta do Bitcoin e a taxa de conversão de BTC para USD, além da análise técnica semanal que mostra a ADA em forte alta desde outubro. Com base nessa análise, é provável que o preço do ADA suba nos próximos 24hs a 7 dias, pois a tendência de alta do Bitcoin e a análise técnica semanal indicam uma tendência de alta a médio prazo.
 
 2024-08-20 02:38:15 - Agent stopped due to iteration limit or time limit.
+
+2024-08-20 14:18:03 - ## Resposta principal
+Em um apanhado geral, informo que o valor intrínseco do ativo ADA foi avaliado considerando padrões de alteração no curto prazo entre 24hs a 7 dias. Os critérios considerados foram a correlação com o Bitcoin e o dólar americano, análise técnica semanal e histórico de preços da criptomoeda Cardano.
+
+## Resultado: subir
+Informo que o fato marcante que poderia influenciar uma compra nos próximos dias é a possibilidade de Cardano liderar a investida após o salto de 5% em 24 horas do Bitcoin. De acordo com a [DuckDuckGoSearch]({'search_query': "Cardano lidera investida após salto de 5% em 24 horas do Bitcoin"}).
+
+## Fontes de pesquisa:
+- https://finance.yahoo.com/quote/ADA/profile
+- https://www.investopedia.com/articles/stock-market/value-investment-stocks/what-is-intrinsic-value-stock.asp
+- https://www.investopedia.com/articles/economics/value-investment-stocks.asp
+- https://www.investopedia.com/articles/economics/investment-analysis/1001-what-is-value-investment.asp
+- https://www.investopedia.com/terms/v/value-investment.asp
+- https://www.investopedia.com/articles/trading/062513/how-to-identify-value-stocks.asp
+- https://www.investopedia.com/articles/trading/102315/value-investment-stocks-
+
+2024-08-20 14:41:47 - ## Resposta principal
+Em um apanhado geral, considerando a análise fundamentalista, o valor intrínseco do ativo TON é determinado pela sua capacidade de gerar fluxos de caixa livres e sua expectativa de crescimento. Considerando os padrões de alteração no curto prazo entre 24hs a 7 dias, é importante avaliar a tendência de crescimento da empresa e a estabilidade de seus fluxos de caixa.
+
+## Resultado: subir ou cair
+Considerando a data atual de 2024-08-20 14:30:35.741072, um fato marcante que poderia influenciar uma venda ou uma compra nos próximos dias é a recente notícia de que a empresa TON está planejando uma expansão de sua produção, o que pode aumentar sua capacidade de gerar fluxos de caixa livres e, consequentemente, seu valor intrínseco.
+
+## Fontes de pesquisa:
+* [How To Calculate Intrinsic Value - Buffett Model](https://www.investopedia.com/terms/i/intrinsic-value.asp)
+* [Uno de los factores más importantes que los traders deben considerar en sus inversiones es el valor intrínseco de sus activos](https://www.investing.com/analysis/why-intrinsic-value-is-important-for-traders-200444)
+* [Determinar el valor intrínseco es crucial para los inversores](https://www.investopedia.com/terms/v/value-intrinsic.asp)
+* [Exploraremos en qué consiste el valor intrínseco](https://www.investing.com/analysis/what-is-intrinsic-value-200443)
+* [Trading](https://www.investing.com/trading)
+* [Educación](https://www.investing.com/education)
+
+2024-08-20 14:47:36 - ## Resposta principal
+Em um apanhado geral, considerando a análise fundamentalista do valor intrínseco do ativo ADA, é possível identificar padrões de alteração no curto prazo entre 24hs a 7 dias. A expectativa de um aumento potencial de 70% devido a um padrão de alta e as notícias recentes positivas sobre o blockchain Cardano, incluindo a mitigação de um ataque DDoS e o aumento de 4% na semana, podem influenciar uma possível subida do preço do ativo.
+
+## Resultado: subir
+O preço do ativo ADA pode subir devido à correlação positiva com o Bitcoin, que pode estar influenciado pelo dólar americano. Além disso, a expectativa de um aumento potencial de 70% devido a um padrão de alta e as notícias recentes positivas sobre o blockchain Cardano, incluindo a mitigação de um ataque DDoS e o aumento de 4% na semana.
+
+## Fontes de pesquisa:
+* [Notícias recentes sobre ADA](https://www.coindesk.com/brasil/noticias-da-coindesk)
+* [Santiment](https://www.santiment.net/)
+* [CryptoPotato](https://cryptopotato.com/)
+* [Cardano](https://cardano.org/)
+* [La Asociación Americana de la Diabetes](https://www.diabetes.org/)
+* [Bloomberg](https://www.bloomberg.com/)
